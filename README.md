@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Dao Le Gia Bao]
+### Hi there 👋 I'm [Dao Le G. Bao]
 > Software Engineer at [ANTS]()
 
 
@@ -29,7 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=baobao4124&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Dao Le G. Bao GitHub Stats](https://github-readme-stats.vercel.app/api?username=baobao4124&show_icons=true&count_private=true)](https://github.com/baobao4124)
 
 ### Github Repos
 
